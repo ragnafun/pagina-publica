@@ -1,2 +1,0 @@
-# pagina-publica
-Conteúdo Estático
